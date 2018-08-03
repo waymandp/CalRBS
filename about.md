@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-This has to do with *Digital Humanities*.
+This class had to do with *Digital Humanities*--you know, **humanities** rendered **digitally**....
