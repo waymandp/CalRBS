@@ -1,0 +1,11 @@
+# Site settings
+title: Awesome Site on GitHub Pages
+github_username: cdworkshops
+description: >
+  This is a practice site to demo GitHub Pages.
+ 
+url: "https://www.calrbs.org"
+
+# Build settings
+markdown: kramdown
+theme: minima
